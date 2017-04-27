@@ -3,7 +3,7 @@
 </head>
 <body>
 <span style="font-family: Helvetica Neue; font-weight: bold; color:#ffffff">
-	<span style="color:##e49436">Git</span> Pitch!
+	Git Pitch!
 </span>
 </body>
 </html>
